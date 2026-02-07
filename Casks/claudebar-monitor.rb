@@ -1,6 +1,6 @@
 cask "claudebar-monitor" do
-  version "1.0.1"
-  sha256 "173ca3f907918934e6b864c82da8b1cc8e3a6b714c86b39dc9cd0f731905a9db"
+  version "1.0.2"
+  sha256 "a504bf9748a91ef450eacb550c71f41679443524658662e3a5bf61eee36781ac"
   url "https://github.com/kemalasliyuksek/ClaudeBar/releases/download/v#{version}/ClaudeBar-v#{version}-macos.zip"
   name "ClaudeBar"
   desc "Native macOS menu bar app for monitoring Claude usage limits"
